@@ -4,14 +4,19 @@ Toma de decisiones basada en datos para la optimización de comercio electrónic
 Este proyecto combina el framework ICE/RICE con un análisis estadístico riguroso de pruebas A/B para evaluar hipótesis de negocio y validar cambios en el producto.
 📊 Priorización de Hipótesis (Puntuación ICE y RICE)
 Evaluamos 9 hipótesis de negocio utilizando dos frameworks de priorización probados para determinar qué iniciativas implementar primero.
-🏆 Top 5 Hipótesis Priorizadas
-Table
-Rank	Hipótesis	Alcance	Impacto	Confianza	Esfuerzo	Puntaje ICE	Puntaje RICE
-🥇	Agregar un formulario de suscripción a todas las páginas principales	10	7	8	5	11.2	112.0
-🥈	Agregar bloques de recomendación de productos a la tienda	8	3	7	3	7.0	56.0
-🥉	Agregar dos nuevos canales para atraer tráfico	3	10	8	6	13.3	40.0
-4	Mostrar banners con ofertas y ventas actuales	5	3	8	3	8.0	40.0
-5	Lanzar una promoción que otorgue descuentos por registro	1	9	9	5	16.2	16.2
+
+
+Rank	
+1.Hipótesis: Agregar un formulario de suscripción a todas las páginas principales
+2.Alcance: 10
+3.Impacto: 7
+4.Confianza: 8	
+5.Esfuerzo: 5	
+6.Puntaje ICE: 11.2	
+7.Puntaje RICE: 112.0
+
+
+
 
 🧪 Análisis de Prueba A/B: Grupo A vs Grupo B
 
