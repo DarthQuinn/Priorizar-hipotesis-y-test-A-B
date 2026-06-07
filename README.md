@@ -8,11 +8,23 @@ Evaluamos 9 hipótesis de negocio utilizando dos frameworks de priorización pro
 
 Rank	
 1.Hipótesis: Agregar un formulario de suscripción a todas las páginas principales
+
+
 2.Alcance: 10
+
+
 3.Impacto: 7
+
+
 4.Confianza: 8	
+
+
 5.Esfuerzo: 5	
+
+
 6.Puntaje ICE: 11.2	
+
+
 7.Puntaje RICE: 112.0
 
 
